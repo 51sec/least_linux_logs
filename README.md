@@ -2,6 +2,7 @@
 
 
 curl -O https://raw.githubusercontent.com/51sec/least_linux_logs/refs/heads/main/least-linux-logs.sh
+
 sudo bash least-linux-logs.sh
 
 
