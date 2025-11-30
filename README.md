@@ -12,3 +12,5 @@ sudo bash least-linux-logs.sh
 if need to enable rsyslog, just run this command:
 
 systemctl enable rsyslog
+
+systemctl start rsyslog
